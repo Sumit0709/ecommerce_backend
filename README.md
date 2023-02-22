@@ -1,7 +1,5 @@
 # Future Work
 
-### Add Cart
-### Implement Cart Functionalities
 ### Integrate Payment Gateway
 ### Add forget password feature 
 ### Show all sessions
